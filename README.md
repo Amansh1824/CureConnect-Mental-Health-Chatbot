@@ -12,11 +12,11 @@ CureConnect is a mental health chatbot designed to provide support to users deal
 
 ## Technical Framework
 
-Core Engine: Python-based backend with advanced NLP capabilities
-AI Framework: Custom neural networks built with TensorFlow/Keras
-Interface: Streamlit-powered responsive web application
-Data Management: Structured JSON architecture with Pandas integration
-Processing: NumPy-accelerated computational operations
+- **Core Engine**: Python-based backend with advanced NLP capabilities
+- **AI Framework**: Custom neural networks built with TensorFlow/Keras
+- **Interface**: Streamlit-powered responsive web application
+- **Data Management**: Structured JSON architecture with Pandas integration
+- **Processing**: NumPy-accelerated computational operations
 
 ## Screenshots
 ![Screenshot 2024-11-01 233330](https://github.com/user-attachments/assets/da47861c-9534-4bb4-80fb-1d3fce929ea3)
