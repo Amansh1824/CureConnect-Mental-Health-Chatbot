@@ -9,6 +9,7 @@ CureConnect is a mental health chatbot designed to provide support to users deal
 - **Wellness Resource Hub**: The chatbot provides users with curated mental health materials, including expert guidance, therapeutic techniques, and educational content.
 
 ## Architecture
+![Work flow](archt.png)
 
 ## Technical Framework
 
