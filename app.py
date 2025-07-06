@@ -9,6 +9,7 @@ import random
 from keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
 
+
 # Load the model
 model = load_model('chatbot_model.h5')
 
